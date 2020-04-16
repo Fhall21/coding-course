@@ -12,3 +12,5 @@ print ('random stuff')
 print (complete)
 print ('some code inbetween')
 first_function()
+
+print ('magic')
