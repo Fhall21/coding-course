@@ -1,0 +1,12 @@
+# We are now going to do more cool web stuff!!
+# 3 cool packages: BS4, request, and the coolest... selenium
+
+
+
+Notes on Selenium:
+* You need something called a Driver - for either fireFox or Chrome.
+You'll need this for your current version of Chrome/Firefox.
+For Chrome you can download the related one here: 
+https://chromedriver.chromium.org/downloads
+And you can find your chrome version here:
+https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have

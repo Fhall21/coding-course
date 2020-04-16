@@ -1,0 +1,10 @@
+# have an activated browser
+# open a new tab
+# type: ecosia.org
+# then search it (press enter)
+# type something which will come up with an ad
+# click on the ad
+
+# open another tab and repeat
+
+pa.typewrite("google chrome")
